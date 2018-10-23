@@ -1,3 +1,4 @@
+#Credit to Rosetta Stone for original source
 from string import ascii_uppercase
 from itertools import product
 from re import findall
